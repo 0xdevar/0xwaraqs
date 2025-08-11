@@ -1,0 +1,25 @@
+{
+  "name": "2",
+  "tags": [
+    "c",
+    "d"
+  ],
+  "images": [
+    {
+      "name": "1.jpg",
+      "size": 1337,
+      "resolution": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "2.jpg",
+      "size": 1338,
+      "resolution": [
+        3840,
+        2160
+      ]
+    }
+  ]
+}
